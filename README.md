@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Module Federation Next.Js application. This is the remote application for main application [https://github.com/harunrasyid/main-mf-app], contains list of products components, run this application on port 3001
+
 
 ## Getting Started
 
